@@ -1,6 +1,6 @@
 # oscp-prepper
 
-PWK
+PG 
 | Box   | OS | MSFConsole? | 
 | ------------- | ------------- |--------|
 | Wombo  | Nix  | Yes |
